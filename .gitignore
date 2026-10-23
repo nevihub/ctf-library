@@ -1,0 +1,6 @@
+# ctf-library: markdown knowledge base only.
+# Challenge binaries (pcaps, dumps, etc.) stay local on anzu.
+*
+!*/
+!*.md
+!.gitignore
